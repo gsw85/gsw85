@@ -1,5 +1,12 @@
 # Hi there, I'm Dr. Goh Shu Wei 👋
 
+![Profile views](https://komarev.com/ghpvc/?username=gsw85&color=blue)
+![Total Stars](https://img.shields.io/github/stars/gsw85?affiliations=OWNER%2CCOLLABORATOR&style=social)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gsw85&show_icons=true&count_private=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gsw85&layout=compact)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=gsw85)
+
 Welcome to my GitHub! I'm a tech enthusiast passionate about artificial intelligence, open-source projects, and innovative solutions. I started learning programming later in life and love to tell people that it’s "Never too old to program."
 
 ## A Little About Me
