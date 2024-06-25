@@ -2,6 +2,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=gsw85&color=blue)
 ![Total Stars](https://img.shields.io/github/stars/gsw85?affiliations=OWNER%2CCOLLABORATOR&style=social)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gsw85&show_icons=true&count_private=true&include_all_commits=true)
 
 Welcome to my GitHub! I'm a tech enthusiast passionate about artificial intelligence, open-source projects, and innovative solutions. I started learning programming later in life and love to tell people that it’s "Never too old to program."
