@@ -9,15 +9,13 @@ Welcome to my GitHub! I'm a tech enthusiast passionate about artificial intellig
 
 ## A Little About Me
 
-I’ve had an exciting journey in the tech world, contributing to the growth of AI and ecosystem building. In my early days, I contributed to the development of transportation materials, focusing on Warm Mix Asphalt (WMA), Rubber Asphalt, Nanotechnology in Asphalt, and Asphalt Pavement lifecycle prediction. 
+I’ve had an exciting journey in the tech world, contributing to the growth of AI and ecosystem building. In my early days, I worked on the development of [transportation materials](https://scholar.google.com/citations?user=AMAazscAAAAJ&hl=en).
 
 ## What I’m Into
 
 - Artificial Intelligence 🤖
 - Open-Source Projects 🌐
-- Real Estate Development 🏘️
 - Technology Innovation 💡
-- Civil Engineering 🏗️
 
 ## Diving Into
 
