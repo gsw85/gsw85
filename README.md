@@ -23,9 +23,11 @@ I’ve had an exciting journey in the tech world, contributing to the growth of 
 
 Lately, I've been dedicating a lot of time to:
 
-- Next.js
-- Telegram Bot
-- Telegram WebApp
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://core.telegram.org/bots)
+[![Telegram WebApp](https://img.shields.io/badge/Telegram_WebApp-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://core.telegram.org/bots/webapps)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
 
 ## Let's Connect
 
