@@ -19,7 +19,7 @@ I’ve had an exciting journey in the tech world, contributing to the growth of 
 - Technology Innovation 💡
 - Civil Engineering 🏗️
 
-## Focused On
+## Diving Into
 
 Lately, I've been dedicating a lot of time to:
 
@@ -28,6 +28,11 @@ Lately, I've been dedicating a lot of time to:
 [![Telegram WebApp](https://img.shields.io/badge/Telegram_WebApp-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://core.telegram.org/bots/webapps)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/chatgpt)
+[![Claude](https://img.shields.io/badge/Claude-FFD700?style=for-the-badge&logo=claude&logoColor=black)](https://claude.ai/)
+[![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://pages.cloudflare.com/)
+[![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://workers.cloudflare.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 
 ## Let's Connect
 
